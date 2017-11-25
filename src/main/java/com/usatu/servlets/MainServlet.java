@@ -9,7 +9,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class MainServlet extends HttpServlet {
-
+//новый комментарий
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         super.doGet(req,resp);
